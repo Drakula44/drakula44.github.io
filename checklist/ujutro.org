@@ -1,4 +1,0 @@
-* TODO Namestiti krevet
-* TODO Otvoriti prozor
-* TODO Oprati zube
-* TODO Umiti se
